@@ -1,1 +1,1 @@
-# Pr-ctica-Final-Tecnolog-a-de-computadores
+# Practica-Final-Tecnolog-a-de-computadores
