@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2.2 (64-bit)
+# SW Build 2348494 on Mon Oct  1 18:25:44 MDT 2018
+# IP Build 2318053 on Mon Oct  1 21:44:26 MDT 2018
+# Start of session at: Mon Dec 10 10:38:26 2018
+# Process ID: 4436
+# Current directory: D:/Projects/Vivado/Final_Project/Final_Project.runs/impl_1
+# Command line: vivado.exe -log Vending_Machine.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Vending_Machine.tcl -notrace
+# Log file: D:/Projects/Vivado/Final_Project/Final_Project.runs/impl_1/Vending_Machine.vdi
+# Journal file: D:/Projects/Vivado/Final_Project/Final_Project.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Vending_Machine.tcl -notrace
